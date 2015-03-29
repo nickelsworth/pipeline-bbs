@@ -1,0 +1,10 @@
+Just some notes for anyone who might see this source.  Not all of this
+software is written by me, part of it is still Crimson Blade's code that I
+never got around to changing.  Approximately half the bbs has been rewrote
+from the original code in ViSiON/2 .84 where I started.  The easy way to tell
+the difference is the formatting of the code, I was very picky where Crimson
+was not.
+
+
+Net Distortion
+6/26/96
